@@ -4,7 +4,12 @@ import string
 from nltk.corpus import stopwords
 import nltk
 from nltk.stem.porter import PorterStemmer
-nltk.download()
+
+
+# Download specific datasets without using the GUI
+nltk.download('punkt')      # For the Punkt tokenizer
+nltk.download('stopwords')  # For stopwords
+
 ps = PorterStemmer()
 
 
