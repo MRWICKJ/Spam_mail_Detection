@@ -9,6 +9,7 @@ from nltk.stem.porter import PorterStemmer
 # Download specific datasets without using the GUI
 nltk.download('punkt')      # For the Punkt tokenizer
 nltk.download('stopwords')  # For stopwords
+nltk.download('punkt_tab')
 
 ps = PorterStemmer()
 
