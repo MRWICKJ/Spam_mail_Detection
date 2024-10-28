@@ -7,6 +7,10 @@ A machine learning project for detecting spam emails using the Multinomial Naive
 - **Interactive UI:** Uses Streamlit for an easy-to-use web-based interface.
 - **Pretrained Model:** Saves the trained model and vectorizer using Pickle for reuse.
 
+## Deploy Link
+Deployment Link: [https://spammaildetection-cygjftwthzavxynbahu7w3.streamlit.app](https://spammaildetection-cygjftwthzavxynbahu7w3.streamlit.app)  
+
+
 ## Installation
 
 1. **Clone the repository:**
